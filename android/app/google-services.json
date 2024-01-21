@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081117939779",
+    "project_id": "projectthu5tot",
+    "storage_bucket": "projectthu5tot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081117939779:android:ce432efdee53c3951d1cf6",
+        "android_client_info": {
+          "package_name": "com.example.burgerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCwV0FWTbT94NaGICpkuOEWtqAh6AF-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
